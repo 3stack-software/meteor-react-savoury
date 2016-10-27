@@ -1,7 +1,7 @@
 Package.describe({
   name: '3stack:react-savoury',
   version: '0.0.1',
-  summary: '',
+  summary: 'Reactively show the user the status of their method call.',
   git: 'https://github.com/3stack-software/meteor-react-savoury',
   documentation: 'README.md'
 });

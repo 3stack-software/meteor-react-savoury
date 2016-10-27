@@ -1,7 +1,7 @@
 react-savoury
 --------------------------
 
-Like `3stack:savoury` but with react
+Like `3stack:savoury` but with react.
 
 Usage
 ================
